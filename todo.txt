@@ -1,0 +1,13 @@
+As of 2.1 (Released 8/16/2014)
+- All menus beyond Main Menu
+- MvM HUD elements
+- Continue to ensure all gameplay elements maintain style
+- Damage/Health/Metal indicators
+- Steam scheme
+
+
+As of 2.0 (Released 8/8/2014)
+- Main menu/inventory screens, etc.
+- MvM HUD elements
+- Ensure all main gameplay elements maintain style (dependent on feedback to catch things I missed)
+- Damage/Health/Metal indicators

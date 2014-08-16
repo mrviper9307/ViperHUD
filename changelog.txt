@@ -1,0 +1,22 @@
+ViperHUD Change Log
+
+2.1 (Released 8/16/2014)
+- Completely revamped the Main Menu
+- Centered Scoreboard
+- Styled the spectator inspect panel
+- Added labels to Arena Win panel for dmg, heals, lifetime, kills
+- Widened number for healing on scoreboard
+
+2.0 (Released 8/8/2014)
+- Completely revamped the entire HUD
+- Most/all main gameplay (not including MvM) elements should work/have consistent style
+
+
+1.1 (Released 6/13/2014)
+- Fixed text and charge bar for Medic Uber
+- Fixed offset scores on win panel
+- Added "CHARGE" text to Demoman shield charge bar and fixed spacing between the Demoman charge bars
+- Fixed width of health numbers when looking at other players
+
+
+1.0 (Released 5/29/2014)
