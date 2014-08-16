@@ -4,7 +4,8 @@ Thanks for downloading ViperHUD!
 This custom HUD was put together by MrViper (Brennan) from the YouTube channel TFTools.
 
 Installation:
-Copy and paste the "ViperHUD" folder into the "custom" folder in your TF2 installation.
+Click the "Download Zip" button down to the right.
+Extract the "ViperHUD" folder into the "custom" folder in your TF2 installation.
 This will usually be located at C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom or something very similar.
 
 Be sure to also install the "Gunplay", "Orbitron", and "modernpics" fonts from the "fonts" folder located in the "resource" folder.
